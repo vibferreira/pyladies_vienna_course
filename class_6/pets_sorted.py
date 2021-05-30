@@ -3,7 +3,7 @@ from pet import pets
 # pets = ['dog', 'cat', 'rabbit', 'snake']
 
 #sorting list alphabetically
-# pets.sort()
+#print(pets.sort())
 # print(pets)
 
 #sorting alphabetically ignoring the first letter 
